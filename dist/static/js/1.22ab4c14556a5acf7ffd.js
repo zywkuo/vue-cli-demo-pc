@@ -1,0 +1,2 @@
+webpackJsonp([1],{DoUj:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var a={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{staticClass:"dashboard"},[this._v("\n    首页\n")])},staticRenderFns:[]};var r=n("C7Lr")({name:"dashboard"},a,!1,function(e){n("hEj2")},"data-v-d96b1476",null);t.default=r.exports},hEj2:function(e,t){}});
+//# sourceMappingURL=1.22ab4c14556a5acf7ffd.js.map
